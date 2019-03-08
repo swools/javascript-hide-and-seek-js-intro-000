@@ -22,8 +22,6 @@ function deepestChild() {
       return nodes[i];
     }
   }
-  
-  
 }
 
 
